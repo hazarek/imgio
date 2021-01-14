@@ -1,7 +1,7 @@
 package main
 
 import (
-	"halftone/imgio"
+	"imgio"
 	// "image"
 	// "github.com/nfnt/resize"
 )
